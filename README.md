@@ -12,8 +12,6 @@
 
 - [Datasets by Transformers](https://github.com/huggingface/datasets) - Datasets and evaluation metrics for natural language processing by Transformers. Compatible with NumPy, Pandas, PyTorch and TensorFlow
 
-<Hr>
-
 - [Multidomain Sentiment Analysis Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/) - This is a slightly older dataset that features a variety of product reviews taken from Amazon.
 
 - [IMDB Reviews](http://ai.stanford.edu/~amaas/data/sentiment/) - Featuring 25,000 movie reviews, this relatively small dataset was compiled primarily for binary sentiment classification use cases.
@@ -21,7 +19,6 @@
 - [Sentiment140](http://help.sentiment140.com/for-students/) - This popular dataset contains 160,000 tweets formatted with 6 fields: polarity, ID, tweet date, query, user, and the text. Emoticons have been pre-removed.
 - [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) - Scraped in February 2015, these tweets about US airlines are classified as classified as positive, negative, and neutral. Negative tweets have also been categorized by reason for complaint.
 
-<hr>
 
 - [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/) - This collection of approximately 20,000 documents covers 20 different newsgroups, from baseball to religion.
 
@@ -35,12 +32,9 @@
 - [Enron Dataset](https://www.cs.cmu.edu/~./enron/) - Over half a million anonymized emails from over 100 users. It’s one of the few publically available collections of “real” emails available for study and training sets.
 - [Project Gutenberg](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs) - Extensive collection of book texts. These are public domain and available in a variety of languages, spanning a long period of time.
 
-
-<hr>
-
 <br>
 
-## NLP Python Packages
+## NLP Libraries
 
 - [Haystack](https://github.com/deepset-ai/haystack) - Open-source framework for building end-to-end question answering systems for large document collections. 
 
