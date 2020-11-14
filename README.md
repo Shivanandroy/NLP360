@@ -87,3 +87,17 @@
 - [Tokenizers](https://github.com/huggingface/tokenizers) - Tokenizers optimized for Research and Production.
 - [fairSeq](https://github.com/pytorch/fairseq) Facebook AI Research implementations of SOTA seq2seq models in Pytorch. 
 - [corex_topic](https://github.com/gregversteeg/corex_topic) - Hierarchical Topic Modeling with Minimal Domain Knowledge  
+
+<br>
+
+## Articles
+
+- [Orbit | Uber's New Open Source Python Library for Time Series Modeling](https://shivanandroy.com/orbit-uber-opensources-python-package-for-time-series-modeling/)
+- [Top 10 Most Useful But Underrated Python Libraries for Data Science](https://shivanandroy.com/top-useful-but-underrated-python-libraries-for-data-science/)
+- [Building A Faster & Accurate COVID Search Engine with Transformers🤗](https://shivanandroy.com/building-a-faster-accurate-covid-search-engine-with-transformers/)
+- [Fine Tuning XLNet Model for Text Classification](https://shivanandroy.com/fine-tuning-xlnet-model-for-text-classification/)
+- [Building Question Answering Model at Scale using 🤗Transformers](https://shivanandroy.com/transformers-building-question-answers-model-at-scale/)
+- [Training a T5 Transformer Model - Generating Titles from ArXiv Paper's Abstracts using 🤗Transformers](https://shivanandroy.com/transformers-generating-arxiv-papers-title-from-abstracts/)
+- [ResumeAnalyzer | An Easy Solution to Rank Resumes using Spacy](https://shivanandroy.com/resume-analyzer/)
+- [Code📝: Fine Tune BERT Model for Binary Text Classification](https://shivanandroy.com/fine-tune-bert-for-binary-text-classification/)
+- [Why Do We Need Activation Functions?](https://shivanandroy.com/why-do-we-need-activation-functions/)
