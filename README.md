@@ -92,9 +92,6 @@
 
 ## Articles
 
-- [Orbit | Uber's New Open Source Python Library for Time Series Modeling](https://shivanandroy.com/orbit-uber-opensources-python-package-for-time-series-modeling/)
-
-
 - [Top 10 Most Useful But Underrated Python Libraries for Data Science](https://shivanandroy.com/top-useful-but-underrated-python-libraries-for-data-science/)
 
 
@@ -107,5 +104,3 @@
 - [Why Do We Need Activation Functions?](https://shivanandroy.com/why-do-we-need-activation-functions/)
 - [Let's pay some Attention!](https://www.datamuni.com/@ShambhaviCodes/let-s-pay-some-attention)
 - [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://www.datamuni.com/@Artgor/a-long-term-data-science-roadmap-which-won-t-help-you-become-an-expert-in-only-several-months)
-- [Basics of cross-validation](https://www.datamuni.com/@abhishek/basics-of-cross-validation)
-- [Supervised vs unsupervised learning][https://www.datamuni.com/@abhishek/supervised-vs-unsupervised-learning]
