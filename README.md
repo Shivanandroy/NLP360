@@ -1,7 +1,8 @@
 ![](nlp360.png)
 
 <p align="center">
-  <img src="nlp360-1.png">
+  <img src="nlp360-1.png"> 
+  <br>
   <a href="#Datasets"><b>Datasets</b></a> |
   <a href="#NLP-Libraries"><b>Libraries</b></a> |
   <a href="#Articles"><b>Articles</b></a>
