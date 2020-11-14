@@ -1,8 +1,7 @@
 ![](nlp360.png)
 
-**Last updated: November 13, 2020**
 
-[**Datasets**](#NLP-Datasets)
+[**Datasets**](#NLP-Datasets) | [**Libraries**](#NLP-Libraries) | [**Articles**](#Articles) 
 
 ## NLP Datasets
 
