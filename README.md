@@ -1,7 +1,10 @@
 ![](nlp360.png)
 
-
-[**Datasets**](#Datasets) | [**Libraries**](#NLP-Libraries) | [**Articles**](#Articles) 
+<p align="center">
+  <a href="#Datasets"><b>Datasets</b></a> |
+  <a href="#NLP-Libraries"><b>Libraries</b></a> |
+  <a href="#Articles"><b>Articles</b></a>
+</p>
 
 ## Datasets
 
