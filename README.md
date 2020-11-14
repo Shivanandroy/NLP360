@@ -2,6 +2,8 @@
 
 **Last updated: November 13, 2020**
 
+[**Datasets**](#NLP-Datasets)
+
 ## NLP Datasets
 
 - [Complete NLP Dataset by The Eye](https://the-eye.eu/public/AI/pile_preliminary_components/) - ArXiv (37GB), PubMed (6GB), StackExchange (34GB), OpenWebText (27GB), Github (106GB)
