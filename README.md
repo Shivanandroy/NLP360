@@ -1,4 +1,3 @@
-![](nlp360.png)
 
 <p align="center">
   <img src="nlp360-1.png"> 
