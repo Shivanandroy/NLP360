@@ -1,7 +1,7 @@
 ![](nlp360.png)
 
 
-**📌Go to:** [**📂Datasets**](#Datasets) | [**Libraries**](#NLP-Libraries) | [**📝Articles**](#Articles) 
+**Go to:** [**📂Datasets**](#Datasets) | [**🐍Libraries**](#NLP-Libraries) | [**📝Articles**](#Articles) 
 
 ## Datasets
 
